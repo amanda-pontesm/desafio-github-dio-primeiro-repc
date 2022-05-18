@@ -27,6 +27,6 @@ __Ctrl + l -__ Limpa a tela
 
 **Git clone link HHTPS copiado(github) -** Clona um repositório remoto em um local, puxando-o.
 
->Quando ocorre um conflito é necessário usar o git pull, fazer as alterações manualmente e fazer novamente o processo para adicionar no repositório remoto (git add e git commit -m)
+>Quando ocorre um conflito é necessário usar o git pull, fazer as alterações manualmente e fazer novamente o processo para adicionar no repositório remoto (git add, git commit -m e git push)
 
 
