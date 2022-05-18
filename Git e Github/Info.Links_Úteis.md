@@ -21,7 +21,7 @@ Com isso, o GitHub também pode funcionar como um serviço de colaboração de p
 
 **Link para criação de conta no Github:** [https://github.com/join](https://github.com/join)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/640px-Markdown-mark.svg.png)
 
 ###Markdown
 
