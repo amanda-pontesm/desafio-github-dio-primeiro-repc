@@ -1,6 +1,6 @@
 # Anotações Git e Github      ![](https://cdn-icons-png.flaticon.com/128/746/746988.png)
 
-#### Comandos Básicos
+### Comandos Básicos
 **ls -** lista diretórios e repositórios presentes na pasta atual (**+ Flag -a:** revela também os itens ocultos)
 
 __cd (change directory)__ - Te leva ao diretório solicitado. __( + ".." : leva para a diretório anterior; + "/" : vai para a base do windows)__
