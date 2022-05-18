@@ -1,6 +1,7 @@
 ##Links e informações úteis
 
-![](https://gitlab.c3sl.ufpr.br/uploads/-/system/project/avatar/5433/Git-Icon-1788C.png)
+![](https://cdn.iconscout.com/icon/free/png-256/git-225996.png)
+
 
 ###Git
 
@@ -9,7 +10,7 @@ Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, Siste
 
 **Link para download Git (Windows, Linux e macOS):** [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-![](https://avatars.githubusercontent.com/u/9919?s=280&v=4)
+![](https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png)
 
 ###Github
 
@@ -21,7 +22,7 @@ Com isso, o GitHub também pode funcionar como um serviço de colaboração de p
 
 **Link para criação de conta no Github:** [https://github.com/join](https://github.com/join)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/640px-Markdown-mark.svg.png)
+![](https://cdn.iconscout.com/icon/free/png-256/markdown-1-457956.png)
 
 ###Markdown
 
