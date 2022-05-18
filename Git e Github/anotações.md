@@ -1,6 +1,6 @@
-#Anotações Git e Github      ![](https://cdn-icons-png.flaticon.com/128/746/746988.png)
+# Anotações Git e Github      ![](https://cdn-icons-png.flaticon.com/128/746/746988.png)
 ##
-####Comandos Básicos
+#### Comandos Básicos
 **ls -** lista diretórios e repositórios presentes na pasta atual (**+ Flag -a:** revela também os itens ocultos)
 
 __cd (change directory)__ - Te leva ao diretório solicitado. __( + ".." : leva para a diretório anterior; + "/" : vai para a base do windows)__
@@ -11,7 +11,7 @@ __Ctrl + l -__ Limpa a tela
 
 **mvdir (move directory) -** Move o diretório de um local para outro. **(/ : de para)**
 
-###Comandos Principais
+### Comandos Principais
 
 **Git init -** Cria um repositório Git dentro da pasta que esta sendo utilizada.
 
