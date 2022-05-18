@@ -1,9 +1,9 @@
-##Links e informações úteis
+## Links e informações úteis
 
 ![](https://cdn.iconscout.com/icon/free/png-256/git-225996.png)
 
 
-###Git
+### Git
 
 O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
 Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, Sistema de Controle de Versão Distribuído). Em vez de ter apenas um único local para o histórico completo da versão do software, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, a cópia de trabalho de todo desenvolvedor do código também é um repositório que pode conter o histórico completo de todas as alterações. 
@@ -12,7 +12,7 @@ Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, Siste
 
 ![](https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png)
 
-###Github
+### Github
 
 O slogan do GitHub é "Social Code Host" (hospedeiro social de códigos, em tradução livre). A base do site é justamente essa: armazenar códigos de programação, produzidos por desenvolvedores do mundo todo, e compartilhá-los como se fosse uma rede social. Dessa forma, é possível que quaisquer usuários cadastrados na plataforma divulguem seus trabalhos e que outros membros da comunidade façam contribuições.
 
@@ -24,7 +24,7 @@ Com isso, o GitHub também pode funcionar como um serviço de colaboração de p
 
 ![](https://cdn.iconscout.com/icon/free/png-256/markdown-1-457956.png)
 
-###Markdown
+### Markdown
 
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub.
 
