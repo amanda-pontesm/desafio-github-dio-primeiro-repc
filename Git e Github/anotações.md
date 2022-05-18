@@ -1,5 +1,5 @@
 # Anotações Git e Github      ![](https://cdn-icons-png.flaticon.com/128/746/746988.png)
-##
+
 #### Comandos Básicos
 **ls -** lista diretórios e repositórios presentes na pasta atual (**+ Flag -a:** revela também os itens ocultos)
 
