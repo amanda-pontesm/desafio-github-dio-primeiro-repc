@@ -1,4 +1,4 @@
-#Anotações Git e Github
+#Anotações Git e Github      ![](https://cdn-icons-png.flaticon.com/128/746/746988.png)
 ##
 ####Comandos Básicos
 **ls -** lista diretórios e repositórios presentes na pasta atual (**+ Flag -a:** revela também os itens ocultos)
@@ -9,7 +9,7 @@ __Ctrl + l -__ Limpa a tela
 
 **mkdir (make directory) -** Cria um diretório na pasta atual
 
-**mvdir (move directory) -** Move o diretório de um local para outro. **(./ : de para)**
+**mvdir (move directory) -** Move o diretório de um local para outro. **(/ : de para)**
 
 ###Comandos Principais
 
@@ -23,9 +23,10 @@ __Ctrl + l -__ Limpa a tela
 
 **Git push origin (apelido para o link) master ou main: -** Manda todos os commits que temos localmente para o remoto.
 
+**Git mv oldname newname -** Renomeia o nome do arquivo
 
 **Git clone link HHTPS copiado(github) -** Clona um repositório remoto em um local, puxando-o.
 
-*__OBS:__* Quando ocorrer um conflito é necessário usar o git pull, fazer as alterações manualmente e fazer novamente o processo (git add e git commit -m)
+>Quando ocorre um conflito é necessário usar o git pull, fazer as alterações manualmente e fazer novamente o processo para adicionar no repositório remoto (git add e git commit -m)
 
 
